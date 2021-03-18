@@ -32,7 +32,7 @@ There were a number of approaches I think could've produced a significant improv
 
 Here are screenshots of my attempts at training Inception, which went terribly. Loss is on the Y axis, epochs on the X.
 ![Failed Attempt #1](https://i.imgur.com/5E6coBy.png)
-![Failed Attempt #2)(https://i.imgur.com/Zv6hz31.png)
+![Failed Attempt #2](https://i.imgur.com/Zv6hz31.png)
 
 For comparison, here's resnet18:
 ![Resnet](https://i.imgur.com/qw6GIs1.png).
