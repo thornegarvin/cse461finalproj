@@ -45,3 +45,7 @@ With all that said, I could've gotten a significantly better result with the kno
 With regards to the uniqueness of my approach, I don't believe my approach was particularly unique, but I do think it was a solid example of the basics and definitely better than attempts at using more complicated/larger networks that weren't as fundamentally solid.
 
 Finally, this is entirely unrelated to my project, but I just wanted to say that this was one of my favorite classes I've ever taken at UW! Thank you to the instructor and staff for a great time!
+
+# Presentation Video
+
+https://streamable.com/oz154f
