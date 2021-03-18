@@ -35,6 +35,7 @@ Here are screenshots of my attempts at training Inception, which went terribly. 
 ![Failed Attempt #2](https://i.imgur.com/Zv6hz31.png)
 
 For comparison, here's resnet18:
+
 ![Resnet](https://i.imgur.com/qw6GIs1.png).
 
 Ultimately, I think I gave up on InceptionNet slightly prematurely. At the point in the project where I gave up on InceptionNet and went back to ResNet, I didn't really understand how to create a useful learning rate schedule for training, nor did I have a good ballpark for how many epochs I would need to train for to produce a good result. If I had stuck with InceptionNet for longer and/or come back to it later, I have no doubt I could've gotten higher accuracy with it.
